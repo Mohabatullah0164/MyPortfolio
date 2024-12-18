@@ -1,0 +1,21 @@
+/* استایل برای navbar */
+.nav {
+    background-color: black;
+}
+
+.logo {
+    font-size: 50px;
+    margin-left: 100px;
+}
+.navbar_link {
+    font-size: 20px;
+    margin-left: 50px;
+}
+
+a.navbar_link:hover{
+    text-shadow: 0px 0px 10px green, 0px 0px 15px green, 0px 0px 20px green, 0px 0px 25px green;
+    color: red;
+    transition: 0.2s;
+}
+
+

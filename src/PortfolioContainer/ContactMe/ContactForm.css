@@ -1,0 +1,11 @@
+.bg-darkblue{
+    background-color: #1f1d2e;
+}
+#contact-form .gray{
+    background-color: rgb(216, 216, 216);
+}
+.text-darker {
+    color: darkgray;
+    letter-spacing: 3px;
+    margin: 0 0 5px 0;
+}
